@@ -1,0 +1,443 @@
+[
+  {
+    "name": "Orcane",
+    "element": "Water",
+    "species": ["Aquatic","Deity"],
+    "region": ["Merchant Port", "Polekai Islands"],
+    "appearance": ["RoA","RoA2","Creatures"],
+    "gender": "Male",
+    "image": "images/orcaneicon.png"
+  },
+  {
+    "name": "Zetterburn",
+    "element": "Fire",
+    "species": ["Mammal"],
+    "region": ["Fire Capital"],
+    "appearance": ["RoA","RoA2","Creatures"],
+    "gender": "Male",
+    "image": "images/zetterburnicon.png"
+  },
+  {
+    "name": "Clairen",
+    "element": "Fire",
+    "species": ["Mammal"],
+    "region": ["Fire Capital", "Neo Fire Capital"],
+    "appearance": ["RoA","RoA2","Creatures"],
+    "gender": "Female",
+    "image": "images/clairenicon.png"
+  },
+    {
+    "name": "Loxodont",
+    "element": "Fire",
+    "species": ["Mammal"],
+    "region": ["Fire Capital", "Neo Fire Capital"],
+    "appearance": ["RoA2"],
+    "gender": "Male",
+    "image": "images/loxodonticon.png"
+  },
+    {
+    "name": "Mollo",
+    "element": "Fire",
+    "species": ["Insect"],
+    "region": ["Fire Capital", "Neo Fire Capital"],
+    "appearance": ["RoA","Creatures"],
+    "gender": "Male",
+    "image": "images/molloicon.png"
+  },  {
+    "name": "Forsburn",
+    "element": "Fire",
+    "species": ["Mammal"],
+    "region": ["Fire Capital", "Smoke Clan"],
+    "appearance": ["RoA","RoA2","Creatures"],
+    "gender": "Male",
+    "image": "images/forsburnicon.png"
+  },  {
+    "name": "Wrastor",
+    "element": "Air",
+    "species": ["Avian"],
+    "region": ["Air Armada"],
+    "appearance": ["RoA","RoA2","Creatures"],
+    "gender": "Male",
+    "image": "images/wrastoricon.png"
+  },  {
+    "name": "Absa",
+    "element": "Air",
+    "species": ["Mammal"],
+    "region": ["Archai Mountains"],
+    "appearance": ["RoA","RoA2","Creatures","Dreams"],
+    "gender": "Female",
+    "image": "images/absaicon.png"
+  },
+  {
+    "name": "Fleet",
+    "element": "Air",
+    "species": ["Mammal"],
+    "region": ["Julesvale"],
+    "appearance": ["RoA2","Creatures","Dungeons"],
+    "gender": "Female",
+    "image": "images/fleeticon.png"
+  },
+   {
+    "name": "Elliana",
+    "element": "Air",
+    "species": ["Reptile"],
+    "region": ["Julesvale"],
+    "appearance": ["RoA","Creatures"],
+    "gender": "Female",
+    "image": "images/ellianaicon.png"
+  },
+  {
+    "name": "Pomme",
+    "element": "Air",
+    "species": ["Mammal"],
+    "region": ["Julesvale", "Neo Julesvale"],
+    "appearance": ["RoA"],
+    "gender": "Female",
+    "image": "images/pommeicon.png"
+  },{
+    "name": "La Reina",
+    "element": "Earth",
+    "species": ["Insect"],
+    "region": ["Iron Mining Village"],
+    "appearance": ["RoA","RoA2"],
+    "gender": "Female",
+    "image": "images/lareinaicon.png"
+  },{
+    "name": "Galvan",
+    "element": "Earth",
+    "species": ["Ferosaur"],
+    "region": ["Julesvale","Aether"],
+    "appearance": ["RoA2"],
+    "gender": "Other",
+    "image": "images/galvanicon.png"
+  },{
+    "name": "Olympia",
+    "element": "Earth",
+    "species": ["Mammal"],
+    "region": ["Crystal Oasis","Julesvale"],
+    "appearance": ["RoA","RoA2"],
+    "gender": "Female",
+    "image": "images/olympiaicon.png"
+  },{
+    "name": "Sylvanos",
+    "element": "Earth",
+    "species": ["Mammal","Deity"],
+    "region": ["Aetherian Forest", "Aether"],
+    "appearance": ["RoA","Creatures","Dreams"],
+    "gender": "Male",
+    "image": "images/sylvanosicon.png"
+  },{
+    "name": "Maypul",
+    "element": "Earth",
+    "species": ["Mammal"],
+    "region": ["Aetherian Forest"],
+    "appearance": ["RoA","RoA2","Creatures"],
+    "gender": "Female",
+    "image": "images/maypulicon.png"
+  },{
+    "name": "Kragg",
+    "element": "Earth",
+    "species": ["Insect"],
+    "region": ["Rockwall"],
+    "appearance": ["RoA","RoA2","Creatures"],
+    "gender": "Male",
+    "image": "images/kraggicon.png"
+  },{
+    "name": "Ranno",
+    "element": "Water",
+    "species": ["Amphibian"],
+    "region": ["Swampy Estuary"],
+    "appearance": ["RoA","RoA2","Creatures"],
+    "gender": "Male",
+    "image": "images/rannoicon.png"
+  },{
+    "name": "Etalus",
+    "element": "Water",
+    "species": ["Mammal"],
+    "region": ["Ice Barrens"],
+    "appearance": ["RoA","RoA2","Creatures"],
+    "gender": "Male",
+    "image": "images/etalusicon.png"
+  },{
+    "name": "Hodan",
+    "element": "Water",
+    "species": ["Mammal"],
+    "region": ["Hodojo"],
+    "appearance": ["RoA","Dreams"],
+    "gender": "Male",
+    "image": "images/hodanicon.png"
+  },{
+    "name": "Slade",
+    "element": "Water",
+    "species": ["Aquatic"],
+    "region": ["Polekai Islands","Julesvale"],
+    "appearance": ["RoA2","Dungeons"],
+    "gender": "Male",
+    "image": "images/sladeicon.png"
+  },{
+    "name": "Hamir",
+    "element": "Earth",
+    "species": ["Mammal"],
+    "region": ["Crystal Oasis", "Rockwall", "Julesvale"],
+    "appearance": ["Dungeons"],
+    "gender": "Male",
+    "image": "images/hamiricon.png"
+  },{
+    "name": "Artemis",
+    "element": "Fire",
+    "species": ["Reptile"],
+    "region": ["Fire Capital","Julesvale"],
+    "appearance": ["Dungeons","Dreams"],
+    "gender": "Female",
+    "image": "images/artemisicon.png"
+  },
+  {
+    "name": "Randal",
+    "element": "Air",
+    "species": ["Avian"],
+    "region": ["Julesvale","Aether"],
+    "appearance": ["Non-playable"],
+    "gender": "Male",
+    "image": "images/randalicon.png"
+  },{
+    "name": "Genbu",
+    "element": "Water",
+    "species": ["Aquatic"],
+    "region": ["Julesvale","Aether"],
+    "appearance": ["Non-playable"],
+    "gender": "Male",
+    "image": "images/genbuicon.png"
+  },{
+    "name": "Hemiunu",
+    "element": "Earth",
+    "species": ["Insect"],
+    "region": ["Julesvale","Aether"],
+    "appearance": ["Non-playable"],
+    "gender": "Male",
+    "image": "images/hemiunuicon.png"
+  },{
+    "name": "Icaburn",
+    "element": "Fire",
+    "species": ["Mammal"],
+    "region": ["Julesvale","Aether"],
+    "appearance": ["Non-playable"],
+    "gender": "Male",
+    "image": "images/icaburnicon.png"
+  },{
+    "name": "Volcorum",
+    "element": "Fire",
+    "species": ["Mammal","Deity"],
+    "region": ["Fire Capital","Aether"],
+    "appearance": ["Non-playable"],
+    "gender": "Male",
+    "image": "images/volcorumicon.png"
+  },{
+    "name": "Caelus",
+    "element": "Air",
+    "species": ["Avian","Deity"],
+    "region": ["Archai Mountains","Aether"],
+    "appearance": ["Non-playable"],
+    "gender": "Female",
+    "image": "images/caelusicon.png"
+  },{
+    "name": "Marinus",
+    "element": "Water",
+    "species": ["Aquatic","Deity"],
+    "region": ["Polekai Islands","Aether"],
+    "appearance": ["Non-playable"],
+    "gender": "Female",
+    "image": "images/marinusicon.png"
+  },{
+    "name": "Guadua",
+    "element": "Earth",
+    "species": ["Mammal"],
+    "region": ["Aether"],
+    "appearance": ["RoA","Creatures"],
+    "gender": "Female",
+    "image": "images/guaduaicon.png"
+  },{
+    "name": "Avarum",
+    "element": "Abyss",
+    "species": ["Abyss Creature"],
+    "region": ["Abyss", "Aether","Julesvale"],
+    "appearance": ["Non-playable"],
+    "gender": "Other",
+    "image": "images/avarumicon.png"
+  },{
+    "name": "Envis",
+    "element": "Abyss",
+    "species": ["Abyss Creature"],
+    "region": ["Abyss","Aether"],
+    "appearance": ["Non-playable"],
+    "gender": "Other",
+    "image": "images/envisicon.png"
+  },{
+    "name": "Tristis",
+    "element": "Abyss",
+    "species": ["Abyss Creature"],
+    "region": ["Abyss","Aether"],
+    "appearance": ["Non-playable"],
+    "gender": "Other",
+    "image": "images/tristisicon.png"
+  },{
+    "name": "Ayala",
+    "element": "None",
+    "species": ["Mammal"],
+    "region": ["Julesvale","Neo Fire Capital"],
+    "appearance": ["RoA"],
+    "gender": "Female",
+    "image": "images/ayalaicon.png"
+  },{
+    "name": "Vince",
+    "element": "None",
+    "species": ["Mammal"],
+    "region": ["Julesvale","Neo Julesvale"],
+    "appearance": ["Non-playable"],
+    "gender": "Male",
+    "image": "images/vinceicon.png"
+  },{
+    "name": "Burnette",
+    "element": "None",
+    "species": ["Mammal"],
+    "region": ["Neo Fire Capital"],
+    "appearance": ["Non-playable"],
+    "gender": "Female",
+    "image": "images/burnetteicon.png"
+  },{
+    "name": "Goss",
+    "element": "Air",
+    "species": ["Avian"],
+    "region": ["Neo Fire Capital"],
+    "appearance": ["Non-playable"],
+    "gender": "Male",
+    "image": "images/gossicon.png"
+  },{
+    "name": "Reuss",
+    "element": "Water",
+    "species": ["Amphibian"],
+    "region": ["Neo Fire Capital"],
+    "appearance": ["Non-playable"],
+    "gender": "Male",
+    "image": "images/reussicon.png"
+  },{
+    "name": "Nesbit",
+    "element": "Water",
+    "species": ["Aquatic"],
+    "region": ["Merchant Port"],
+    "appearance": ["Non-playable"],
+    "gender": "Male",
+    "image": "images/nesbiticon.png"
+  },{
+    "name": "Melby",
+    "element": "Water",
+    "species": ["Aquatic"],
+    "region": ["Merchant Port"],
+    "appearance": ["Non-playable"],
+    "gender": "Female",
+    "image": "images/melbyicon.png"
+  },{
+    "name": "Don Whitefish",
+    "element": "Water",
+    "species": ["Aquatic"],
+    "region": ["Merchant Port"],
+    "appearance": ["Non-playable"],
+    "gender": "Male",
+    "image": "images/donwhitefishicon.png"
+  },{
+    "name": "Claiyen",
+    "element": "Fire",
+    "species": ["Mammal"],
+    "region": ["Smoke Clan"],
+    "appearance": ["Non-playable"],
+    "gender": "Female",
+    "image": "images/claiyenicon.png"
+  },{
+    "name": "Clairessa",
+    "element": "None",
+    "species": ["Mammal"],
+    "region": ["Neo Fire Capital"],
+    "appearance": ["Non-playable"],
+    "gender": "Female",
+    "image": "images/clairessaicon.png"
+  },{
+    "name": "Dohren",
+    "element": "None",
+    "species": ["Mammal"],
+    "region": ["Neo Fire Capital"],
+    "appearance": ["Non-playable"],
+    "gender": "Male",
+    "image": "images/dohrenicon.png"
+  },{
+    "name": "Master Cai",
+    "element": "Water",
+    "species": ["Reptile"],
+    "region": ["Swampy Estuary"],
+    "appearance": ["Creatures"],
+    "gender": "Male",
+    "image": "images/mastercaiicon.png"
+  },{
+    "name": "Zolt",
+    "element": "Earth",
+    "species": ["Mammal"],
+    "region": ["Rockwall"],
+    "appearance": ["Creatures"],
+    "gender": "Male",
+    "image": "images/zolticon.png"
+  },{
+    "name": "Renburn",
+    "element": "Fire",
+    "species": ["Mammal"],
+    "region": ["Fire Capital"],
+    "appearance": ["Creatures"],
+    "gender": "Male",
+    "image": "images/renburnicon.png"
+  },{
+    "name": "Swiftwing",
+    "element": "Air",
+    "species": ["Avian"],
+    "region": ["Air Armada"],
+    "appearance": ["Creatures"],
+    "gender": "Male",
+    "image": "images/swiftwingicon.png"
+  },{
+    "name": "Bradshaw",
+    "element": "Air",
+    "species": ["Avian"],
+    "region": ["Air Armada"],
+    "appearance": ["RoA"],
+    "gender": "Male",
+    "image": "images/bradshawicon.png"
+  },{
+    "name": "Ani",
+    "element": "Surprise",
+    "species": ["Elemental"],
+    "region": ["Aether"],
+    "appearance": ["Dreams"],
+    "gender": "Female",
+    "image": "images/aniicon.png"
+  },{
+    "name": "Foreman Kohler",
+    "element": "None",
+    "species": ["Mammal"],
+    "region": ["Julesvale"],
+    "appearance": ["Non-playable"],
+    "gender": "Male",
+    "image": "images/foremankohlericon.png"
+  },{
+    "name": "Mayreed",
+    "element": "Earth",
+    "species": ["Mammal"],
+    "region": ["Aetherian Forest"],
+    "appearance": ["Non-playable"],
+    "gender": "Female",
+    "image": "images/mayreedicon.png"
+  },{
+    "name": "Granny",
+    "element": "Earth",
+    "species": ["Mammal"],
+    "region": ["Aetherian Forest"],
+    "appearance": ["Non-playable"],
+    "gender": "Female",
+    "image": "images/grannyicon.png"
+  }
+]
