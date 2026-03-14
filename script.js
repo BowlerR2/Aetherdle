@@ -78,8 +78,32 @@ function seededShuffle(array, seed) {
 
 function getDailyCharacter() {
   const puzzleNumber = getPuzzleNumber();
-  const shuffled = seededShuffle(characters, 2026);
-  return shuffled[puzzleNumber % shuffled.length];
+
+  const fixedOrder = [
+    "Foreman Kohler",
+    "Slade",
+    "Sylvanos",
+    "Clairen",
+    "Bradshaw"
+  ];
+
+  // find the characters that match the fixed list
+  const fixedCharacters = fixedOrder
+    .map(name => characters.find(c => c.name === name))
+    .filter(Boolean);
+
+  // everything else
+  const remainingCharacters = characters.filter(
+    c => !fixedOrder.includes(c.name)
+  );
+
+  // shuffle remaining characters
+  const shuffledRemaining = seededShuffle(remainingCharacters, 2026);
+
+  // final puzzle order
+  const finalOrder = [...fixedCharacters, ...shuffledRemaining];
+
+  return finalOrder[puzzleNumber % finalOrder.length];
 }
 
 const puzzleNumber = getPuzzleNumber();
